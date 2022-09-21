@@ -1,0 +1,10 @@
+nav a{
+    text-decoration: none;
+    margin: 10px;
+    color: brown;
+    font-size: larger;
+    font-weight: 700;
+}
+nav a:hover{
+    color: rgb(226, 23, 23);
+}
